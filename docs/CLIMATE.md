@@ -970,3 +970,8 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code                               | Supported Models | Controller |
 | ---------------------------------- | -----------------| ---------- |
 | [3380](../codes/climate/3380.json) | DualSplit | Broadlink  |
+
+### Generaltec
+| Code                               | Supported Models | Controller |
+| ---------------------------------- | -----------------| ---------- |
+| [3385](../codes/climate/3385.json) | KKG21B-C1 | Broadlink  |
